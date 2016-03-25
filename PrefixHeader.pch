@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  UILday18_环信
+//
+//  Created by lxf on 16/3/24.
+//  Copyright © 2016年 lxf. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <EaseMobSDK/EaseMob.h>
+
+#endif /* PrefixHeader_pch */
