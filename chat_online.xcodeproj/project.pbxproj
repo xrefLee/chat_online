@@ -28,6 +28,7 @@
 		FD1F20991CA50792003D163E /* RegisterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD1F20851CA50792003D163E /* RegisterViewController.m */; };
 		FD1F209A1CA50792003D163E /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = FD1F20861CA50792003D163E /* Info.plist */; };
 		FD1F209B1CA50792003D163E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FD1F20871CA50792003D163E /* main.m */; };
+		FDF7D11D1D05B2220020D392 /* person.m in Sources */ = {isa = PBXBuildFile; fileRef = FDF7D11C1D05B2220020D392 /* person.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -63,6 +64,8 @@
 		FD1F20861CA50792003D163E /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FD1F20871CA50792003D163E /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		FD4635031CA37FBD00891D66 /* UILday18_环信.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UILday18_环信.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FDF7D11B1D05B2220020D392 /* person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = person.h; sourceTree = "<group>"; };
+		FDF7D11C1D05B2220020D392 /* person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = person.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +106,8 @@
 				FD1F20651CA50792003D163E /* 4.jpg */,
 				FD1F20661CA50792003D163E /* AppDelegate.h */,
 				FD1F20671CA50792003D163E /* AppDelegate.m */,
+				FDF7D11B1D05B2220020D392 /* person.h */,
+				FDF7D11C1D05B2220020D392 /* person.m */,
 				FD1F20681CA50792003D163E /* Assets.xcassets */,
 				FD1F20691CA50792003D163E /* LaunchScreen.storyboard */,
 				FD1F206B1CA50792003D163E /* Main.storyboard */,
@@ -347,6 +352,7 @@
 				FD1F20941CA50792003D163E /* ConversationTableViewController.m in Sources */,
 				FD1F20981CA50792003D163E /* LoginViewController.m in Sources */,
 				FD1F20921CA50792003D163E /* ChatViewController.m in Sources */,
+				FDF7D11D1D05B2220020D392 /* person.m in Sources */,
 				FD1F20951CA50792003D163E /* MyTableViewCell.m in Sources */,
 				FD1F209B1CA50792003D163E /* main.m in Sources */,
 				FD1F20991CA50792003D163E /* RegisterViewController.m in Sources */,
